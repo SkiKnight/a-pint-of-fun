@@ -6,5 +6,6 @@ public class App {
         //System.out.println("Hello, World!");
         Game game = new Dino();
         game.start();
+        //edit
     }
 }
